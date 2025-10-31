@@ -1,7 +1,6 @@
 import pandas as pd
 import numpy as np
 
-# Lê o CSV
 df = pd.read_csv("Cópia de Base_Membros_Desempenho - Base_Membros_Desempenho.csv")
 
 
